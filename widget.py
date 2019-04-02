@@ -32,5 +32,5 @@ class Ui_Form(object):
         Form.setWindowTitle(_translate("Form", "Form"))
         self.startBtn.setText(_translate("Form", "开始"))
         self.quitBtn.setText(_translate("Form", "退出"))
-        self.label.setText(_translate("Form", "TextLabel"))
+        self.label.setText(_translate("Form", "TextLabel")) 
 
