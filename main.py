@@ -7,7 +7,7 @@ import face_recognition
 import cv2
 import os
 from new import *
-import qdarkstyle
+# import qdarkstyle
 
 
 class Mainwindow(QWidget):
