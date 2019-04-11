@@ -164,6 +164,7 @@ class Mainwindow(QWidget):
 
     def logdelete(self):
         self.ui.recoFaceLabel.clear()
+        
 
 
 if __name__ == '__main__':
